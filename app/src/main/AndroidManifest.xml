@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Team1">
         <activity
+            android:name=".SierraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EducationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JacarandaActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
