@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Team1">
         <activity
+            android:name=".loginActivity"
+            android:exported="false" />
+        <activity
             android:name=".newreview"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".SierraActivity"
             android:exported="false"
