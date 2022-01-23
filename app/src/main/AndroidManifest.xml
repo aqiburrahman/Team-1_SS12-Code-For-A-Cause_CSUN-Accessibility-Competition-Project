@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Team1">
         <activity
+            android:name=".uploader"
+            android:exported="false" />
+        <activity
             android:name=".loginActivity"
             android:exported="false" />
         <activity
