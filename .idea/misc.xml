@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_arbor.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_education.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_jacaranda.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_laural.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_newreview.xml" value="0.25" />
+        <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_thumbsupdown.xml" value="0.25" />
+        <entry key="..\:/Users/aqibu/AndroidStudioProjects/Team1-/app/src/main/res/layout/activity_user_review.xml" value="0.22" />
       </map>
     </option>
   </component>

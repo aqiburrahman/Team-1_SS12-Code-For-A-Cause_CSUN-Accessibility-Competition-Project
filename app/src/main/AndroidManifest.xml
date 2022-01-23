@@ -10,18 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Team1">
         <activity
-            android:name=".lauralActivity"
+            android:name=".newreview"
             android:exported="false"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".arborActivity"
+            android:name=".SierraActivity"
             android:exported="false"
-            android:parentActivityName=".MainActivity"
-            />
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".EducationActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".jacarandaActivity"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

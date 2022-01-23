@@ -4,34 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".jacarandaActivity">
+    tools:context=".SierraActivity">
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="413dp"
-        android:layout_height="604dp"
-        android:layout_marginStart="150dp"
-        android:layout_marginEnd="168dp"
-        android:contentDescription="TODO"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/imageView3"
+        android:layout_width="408dp"
+        android:layout_height="629dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="2dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.471"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/jd_floorplan_icons"></ImageView>
-
+        app:srcCompat="@drawable/sierrahall_floorplan_icons" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="14dp"
+        android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         android:background="#972424"
         android:onClick="newreview"
         android:text="Comments"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

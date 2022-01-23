@@ -17,12 +17,13 @@ public class MainActivity extends AppCompatActivity {
         Intent i=new Intent(this, jacarandaActivity.class);
         startActivity(i);
     }
-    public void laural(View v){
-        Intent i=new Intent(this, lauralActivity.class);
+    public void sierra(View v){
+        Intent i=new Intent(this, SierraActivity.class);
         startActivity(i);
     }
-    public void arbor(View v){
-        Intent i=new Intent(this, arborActivity.class);
+    public void education(View v){
+        Intent i=new Intent(this, EducationActivity.class);
         startActivity(i);
     }
+
 }
