@@ -13,8 +13,8 @@ public class EducationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_education);
     }
-    public void newreview(View v){
-        Intent i=new Intent(this, newreview.class);
+    public void login(View v){
+        Intent i=new Intent(this, loginActivity.class);
         startActivity(i);
     }
 }

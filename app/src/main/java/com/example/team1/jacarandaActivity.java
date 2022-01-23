@@ -14,8 +14,8 @@ public class jacarandaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_jacaranda);
     }
-    public void newreview(View v){
-        Intent i=new Intent(this, newreview.class);
+    public void login(View v){
+        Intent i=new Intent(this, loginActivity.class);
         startActivity(i);
     }
 }

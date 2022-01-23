@@ -25,7 +25,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         android:background="#972424"
-        android:onClick="newreview"
+        android:onClick="login"
         android:text="Comments"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
