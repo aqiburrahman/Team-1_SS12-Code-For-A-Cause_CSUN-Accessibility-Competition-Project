@@ -15,3 +15,5 @@ We then decided what buildings we would focus on in our app. We eventually decid
 ## Tools Used
 - [Android Studio](https://developer.android.com/studio) - For Android app development
 - [Firebase](https://firebase.google.com/?gclid=CjwKCAiA866PBhAYEiwANkIneEGacaR2ogc1ys4FyFy-2zVz5eT8Kl_wB01tmWKj1UzuF8Ildz6VABoC47IQAvD_BwE&gclsrc=aw.ds) - Used for the backend portion of our project
+- [Dillinger](https://dillinger.io/) - Used for documentation
+- [Discord](https://discord.com/) - Used for team communication
